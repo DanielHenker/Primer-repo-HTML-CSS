@@ -1,3 +1,53 @@
+/* 1. Importación de las tipografías */
+@import url('https://fonts.cdnfonts.com/css/hummus');
+
+
+/* 2. estilos generales - variables CSS */
+
+:root{
+    --color-primario:#0B5D61;
+    --color-fondo:#0B0E14;
+    --color-texto: #CF2F40;
+    --texto-titulos: 'Hummus', sans-serif;
+}
+
+/* 3. Condiciones iniciales */
+/* selector universal */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/* garantiza que se respeta el tamaño de los elementos*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* selector:etiqueta
 se llaman directamente*/
 li{
